@@ -43,9 +43,9 @@ for my $dir (@new_directories) {
 }
 
 my %filemap = (
-    'LICENCES'                       => 'LICENSES',
+    'LICENCES'                       => 'dist/LICENSES.dist',
     'README.md'                      => 'README.md',
-    'CHANGES.md'                     => 'CHANGES.md',
+    'CHANGES'                        => 'dist/CHANGES.dist',
     'setup_fgnsr.m'                  => 'setup_fgnsr.m',
     'ckernel/fgnsr_ss.h'             => 'ckernel/fgnsr_ss.h',
     'ckernel/fgnsrdef.h'             => 'ckernel/fgnsrdef.h',
