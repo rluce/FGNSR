@@ -11,7 +11,10 @@ example, FGNSR can be used to compute near-separable, nonnegative matrix
 factorizations.  A full description with application in hyperspectral imaging
 (endmember detection) can be found here:
 
-http://arxiv.org/TODO
+N. Gillis & R. Luce, A Fast Gradient Method for Nonnegative Sparse Regression
+with Self Dictionary
+
+https://arxiv.org/abs/1610.01349
 
 
 Installation
