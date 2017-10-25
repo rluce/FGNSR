@@ -15,7 +15,7 @@ Gillis, N., & Luce, R. (2018). A Fast Gradient Method for Nonnegative Sparse
 Regression With Self-Dictionary. IEEE Transactions on Image Processing, 27(1),
 24–37.
 
-ttp://doi.org/10.1109/TIP.2017.2753400
+http://doi.org/10.1109/TIP.2017.2753400
 
 
 Installation
